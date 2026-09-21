@@ -1,5 +1,15 @@
 ---
 title: CodeCraft
 ---
+Subscribe to get notified of new articles.
 
-This file has been created automatically by GitHub Publish plugin. Quartz expects a 'index.md' at the top level to render the home page of your site, feel free to edit the title and write your content!
+<form
+  action="https://buttondown.com/api/emails/embed-subscribe/codecraft"
+  method="post"
+  class="embeddable-buttondown-form"
+>
+  <label for="bd-email">Enter your email</label>
+  <input type="email" name="email" id="bd-email" />
+  <br/>
+  <input type="submit" value="Subscribe" />
+</form>
