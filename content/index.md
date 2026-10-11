@@ -1,16 +1,9 @@
 ---
-title: CodeCraft
+title: The Vanishing Point
 ---
-Subscribe to get notified of new articles.
+# The Vanishing point
 
-<form
-  action="https://buttondown.com/api/emails/embed-subscribe/codecraft"
-  method="post"
-  class="embeddable-buttondown-form"
->
-  <label for="bd-email">Enter your email</label>
-  <input type="email" name="email" id="bd-email" />
-  <br/>
-  <br/>
-  <input type="submit" value="Subscribe" />
-</form>
+- [[posts/introducting-the-vanishing-point|Introducing the Vanishing Point]]
+---
+
+_Practical ideas. Spiritual Ponderings_

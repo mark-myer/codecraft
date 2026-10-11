@@ -1,7 +1,7 @@
 [[X/Images/9b72359e68d4d46de9779c5f79eb76a1_MD5.jpg|]]
 ![[X/Images/9b72359e68d4d46de9779c5f79eb76a1_MD5.jpg]]
 
-# Why would someone write 725 words about random stuff every week?
+## Why would someone write 725 words about random stuff every week?
 
 . . . or every month? . . . or day? . . . or just whenever they feel like it?
 
@@ -34,7 +34,7 @@ I hear you. Those are great in their place. But would I be recording a podcast a
 
 I think the reason a lot of people keep a blog or journal is simply this: Writing helps to process life. And reading other people's writings shows how they are processing life and helps add meaning to yours.
 
-So here's to the CodeCraft blog. If it helps me process life, it is well worth the effort. If it helps anyone else to process their lives, so much the better.
+So here's to the Vanishing Point. If it helps me process life, it is well worth the effort. If it helps anyone else to process their lives, so much the better.
 
 Thanks for reading,
 
