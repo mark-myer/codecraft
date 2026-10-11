@@ -78,7 +78,7 @@ plugins:
     enabled: true
     order: 40
   - source: github:quartz-community/table-of-contents
-    enabled: true
+    enabled: false
     order: 50
     layout:
       position: right
@@ -167,7 +167,7 @@ plugins:
       groupOptions:
         grow: true
   - source: github:quartz-community/backlinks
-    enabled: true
+    enabled: false
     layout:
       position: right
       priority: 50
@@ -198,13 +198,13 @@ plugins:
       priority: 30
       group: toolbar
   - source: github:quartz-community/reader-mode
-    enabled: true
+    enabled: false
     layout:
       position: left
       priority: 35
       group: toolbar
   - source: github:quartz-community/breadcrumbs
-    enabled: true
+    enabled: false
     layout:
       position: beforeBody
       priority: 5
@@ -226,7 +226,7 @@ plugins:
   - source: github:quartz-community/recent-notes
     enabled: false
   - source: github:quartz-community/spacer
-    enabled: true
+    enabled: false
     options: {}
     order: 25
     layout:
@@ -238,7 +238,7 @@ plugins:
     options: {}
     order: 50
   - source: github:quartz-community/note-properties
-    enabled: true
+    enabled: false
     options:
       includeAll: false
       includedProperties:
@@ -274,22 +274,31 @@ layout:
       priority: 35
       direction: row
       gap: 0.5rem
+
   byPageType:
     "404":
       positions:
         beforeBody: []
         left: []
         right: []
-    content: {}
+
+    content:
+      template: full-width
+      positions:
+        left: []
+        right: []
+
     folder:
-      exclude:
-        - reader-mode
+      template: full-width
       positions:
+        left: []
         right: []
+
     tag:
-      exclude:
-        - reader-mode
+      template: full-width
       positions:
+        left: []
         right: []
+
     canvas: {}
     bases: {}
