@@ -1,6 +1,11 @@
+[[X/Images/9b72359e68d4d46de9779c5f79eb76a1_MD5.jpg|]]
+![[X/Images/9b72359e68d4d46de9779c5f79eb76a1_MD5.jpg]]
+
+# Why would someone write 725 words about random stuff every week?
+
 . . . or every month? . . . or day? . . . or just whenever they feel like it?
 
-10:25 AM Sunday Evening
+10:25 PM Sunday Evening
 It's time to stop fooling myself. My nap this afternoon was long, and I've been lying in bed for half an hour convincing myself that I am sleepy.
 
 I'm not.
@@ -11,7 +16,7 @@ Thoughts bump together in my head, some organized, some random. The best way for
 
 I once had a friend tell me, "I process life by talking."
 
-I believed him. He can talk the nose off a brass monkey.
+I believed him. He can talk the ear off a brass monkey.
 
 That's his gift. Now he's a school teacher, and I'd love to visit his classroom. I'm sure it's great. But that's not quite me. 
 

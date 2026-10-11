@@ -11,5 +11,6 @@ Subscribe to get notified of new articles.
   <label for="bd-email">Enter your email</label>
   <input type="email" name="email" id="bd-email" />
   <br/>
+  <br/>
   <input type="submit" value="Subscribe" />
 </form>
