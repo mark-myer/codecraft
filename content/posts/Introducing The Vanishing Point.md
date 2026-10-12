@@ -1,4 +1,4 @@
-[[9b72359e68d4d46de9779c5f79eb76a1_MD5.jpg]]
+
 ![[9b72359e68d4d46de9779c5f79eb76a1_MD5.jpg]]
 
 ## Why would someone write 725 words about random stuff every week?

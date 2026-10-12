@@ -1,7 +1,4 @@
----
-title: The Vanishing Point
----
-# The Vanishing point
+
 
 - [[posts/introducing-the-vanishing-point|Introducing the Vanishing Point]]
 ---
