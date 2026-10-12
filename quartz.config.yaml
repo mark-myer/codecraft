@@ -189,12 +189,12 @@ plugins:
   - source: github:quartz-community/page-title
     enabled: true
     layout:
-      position: left
+      position: beforeBody
       priority: 10
   - source: github:quartz-community/darkmode
     enabled: true
     layout:
-      position: left
+      position: afterBody
       priority: 30
       group: toolbar
   - source: github:quartz-community/reader-mode
