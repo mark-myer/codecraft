@@ -64,6 +64,9 @@ jobs:
           # CreatedModifiedDate discovers the wiki git history (not the engine's).
           rm -rf quartz-engine/content
           cp quartz.config.yaml quartz.lock.json quartz-engine/
+          
+      - name: Apply custom site styles
+        run: cp custom.scss quartz-engine/quartz/styles/custom.scss
 
       - name: Install dependencies
         if: steps.quartz-deps-cache.outputs.cache-hit != 'true'
