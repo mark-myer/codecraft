@@ -1,14 +1,22 @@
 
-/* CodeCraft: centered, comfortable reading width */
+/* CodeCraft: force a narrow, centered reading column */
+
+#quartz-body {
+  grid-template-columns: minmax(0, 1fr) !important;
+}
 
 #quartz-body .center {
-  width: 100%;
-  max-width: 780px;
-  justify-self: center;
+  display: flex;
+  flex-direction: column;
+  width: 100% !important;
+  max-width: 760px !important;
+  min-width: 0;
+  margin-inline: auto !important;
+  padding-inline: 24px;
   box-sizing: border-box;
 }
 
-/* Keep text and media from overflowing */
+/* Keep images and code within the reading column */
 #quartz-body .center img,
 #quartz-body .center video {
   max-width: 100%;
@@ -20,10 +28,8 @@
   overflow-x: auto;
 }
 
-/* Add breathing room on narrow screens */
 @media (max-width: 600px) {
   #quartz-body .center {
-    padding-left: 18px;
-    padding-right: 18px;
+    padding-inline: 18px;
   }
 }
