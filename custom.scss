@@ -1,0 +1,29 @@
+
+/* CodeCraft: centered, comfortable reading width */
+
+#quartz-body .center {
+  width: 100%;
+  max-width: 780px;
+  justify-self: center;
+  box-sizing: border-box;
+}
+
+/* Keep text and media from overflowing */
+#quartz-body .center img,
+#quartz-body .center video {
+  max-width: 100%;
+  height: auto;
+}
+
+#quartz-body .center pre {
+  max-width: 100%;
+  overflow-x: auto;
+}
+
+/* Add breathing room on narrow screens */
+@media (max-width: 600px) {
+  #quartz-body .center {
+    padding-left: 18px;
+    padding-right: 18px;
+  }
+}
