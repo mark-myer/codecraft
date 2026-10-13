@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
   pageTitle: The Vanishing Point
-  pageTitleSuffix: ""
+  pageTitleSuffix: " | The Vanishing Point"
   enableSPA: true
   enablePopovers: true
   analytics:
@@ -187,7 +187,7 @@ plugins:
       position: beforeBody
       priority: 30
   - source: github:quartz-community/page-title
-    enabled: true
+    enabled: false
     layout:
       position: beforeBody
       priority: 10
@@ -204,9 +204,9 @@ plugins:
       priority: 35
       group: toolbar
   - source: github:quartz-community/breadcrumbs
-    enabled: false
+    enabled: true
     layout:
-      position: beforeBody
+      position: afterBody
       priority: 5
       condition: not-index
   - source: github:quartz-community/comments
