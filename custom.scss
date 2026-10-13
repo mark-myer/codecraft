@@ -5,6 +5,12 @@
   grid-template-columns: minmax(0, 1fr) !important;
 }
 
+
+/* Hide date and reading time on the homepage only */
+.page[data-slug="index"] .content-meta {
+  display: none !important;
+}
+
 /* Constrain the actual center column */
 .page[data-frame="full-width"] > #quartz-body .center.full-width {
   width: 100% !important;
