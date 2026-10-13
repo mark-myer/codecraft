@@ -1,6 +1,5 @@
----
-title: Are You Privileged?
----
+[[index|All Posts]]
+# Are You Privileged?
 
 ![[30650ac1412c9b8aba49a1d9f24aafa7_MD5.jpg]]
 Eugene stepped on the throttle as his VW zoomed down the interstate. He listened to the throaty rumble and remarked to his sister Amy sitting beside him: “Feels great to be able to get out and drive again after staying mostly at one place for three weeks.”

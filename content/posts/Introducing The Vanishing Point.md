@@ -1,10 +1,8 @@
+[[index|All Posts]]
 
----
-title: "Why would someone write 725 words about random stuff every week?"
----
 ![[9b72359e68d4d46de9779c5f79eb76a1_MD5.jpg]]
 
-## Why would someone write 725 words about random stuff every week?
+# Why would someone write 725 words about random stuff every week?
 
 . . . or every month? . . . or day? . . . or just whenever they feel like it?
 
